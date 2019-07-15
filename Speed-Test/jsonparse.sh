@@ -3,7 +3,7 @@
 #check for linux updates and the appropiate packages
 sudo apt-get dist-upgrade
 sudo apt-get install speedtest-cli
-sudo apt-get install bi
+sudo apt-get install bc
 sudo apt-get install jq
 
 TEMPFILE=/tmp/$$.tmp
